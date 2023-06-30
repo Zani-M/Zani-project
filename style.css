@@ -1,4 +1,25 @@
-h1 {
-  text-align: center;
-  color: red;
+h1,
+h2 {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+ 
+  font-family: "Amita", cursive;
+}
+ul {
+  color: gray;
+  
+}
+.current {
+  position: fixed;
+  top:0px
+  right: 0px
+}
+.card-body {
+  padding: 20px 0px;
+}
+
+.form-control {
+  padding-left: 100px;
 }
