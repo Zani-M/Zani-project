@@ -4,17 +4,15 @@ h2 {
 }
 
 body {
- 
   font-family: "Amita", cursive;
 }
 ul {
   color: gray;
-  
 }
 .current {
   position: fixed;
-  top:0px
-  right: 0px
+  top: 0px;
+  right: 0px;
 }
 .card-body {
   padding: 20px 0px;
